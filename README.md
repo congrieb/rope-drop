@@ -19,9 +19,7 @@ For example, if its Thrusday night, and 3 feet of snow falls on Monday, Tuesday 
 
 Trying to make this decision without Rope Drop requires asking around if anybody knows which gates were open today (because they are often marked as closed on the website at the end of the day) and then cross referencing that information with the snowfall report.
 
-
-Once I've decided to take PTO and go ski on Friday, I want to make sure that I am able to get to the Honeycomb gate as soon as it opens, but I don't want to waste my time camping out at the gate waiting for patrol to open it. I also don't want to have to keep taking my hand out of my gloves and refreshing the resort's website to check if the gate has opened. The solution to this problem is to have Rope Drop send a push notification to my phone and watch telling me "The Honeycomb gate just opened with 32 inches of fresh snow on it" so I can head that way right away.
-
+Once I've decided to take PTO and go ski on Friday, I want to make sure that I am able to get to the Honeycomb gate as soon as it opens, but I don't want to waste my time camping out at the gate waiting for patrol to open it. I also don't want to have to keep taking my hand out of my gloves and refreshing the resort's website to check if the gate has opened. The solution to this problem is to have Rope Drop send a push notification to my phone and watch telling me "The Honeycomb gate just opened with 32 inches of fresh snow" so I can head that way right away. 
 
 
 ![PXL_20240409_032607949](https://github.com/congrieb/rope-drop/assets/6166729/fcc179fd-4b03-492a-9983-b6ee78dc6f55)
