@@ -1,0 +1,1 @@
+export const ROPE_DROP_SNOWFALL_THRESHOLD = 0;
