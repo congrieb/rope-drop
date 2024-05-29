@@ -1,5 +1,7 @@
 # rope-drop
 
+This is the repo for the backend built on Firebase. Repo for the Android app: https://github.com/congrieb/RopeDropAndroid 
+
 Android App for planning the optimal ski day at Solitude and alerting on terrain openings.
 
 Ski resort websites typically will tell you how much snow fell in the last 24 hours, past 7 days, etc... and they will tell you if each run is currently open or not, but thats not always enough information to let you what is going to be worth skiing that day. At a resort like Solitude, the best skiing is behind their avalanche controlled terrain gates, which they often mark as "Closed" on their website at the end of each day. Making it hard to know how much untracked powder is left for the current storm cycle.
