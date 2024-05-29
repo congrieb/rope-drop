@@ -14,7 +14,9 @@ When I am trying to decide if I want to go skiing tomorrow, the information I re
 
 For example, if its Thrusday night, and 3 feet of snow falls on Monday, Tuesday and Wednesday and I am trying to decide if I should take PTO to ski on Friday. I can check Rope Drop and see:
 1.  Even though there won't be any fresh snow tonight, the Honeycomb gates haven't opened since Sunday and they have 3 feet of untouched snow on them, Evergreen was open on Tuesday but we've received 12 inches since it was last open on Tuesday. That would let me know that it would be an awesome day to ski, even if it doesn't seem like a "powder day" because its a few days after a storm.
+   
    OR
+   
 2. There won't be any fresh snow tonight, and Honeycomb was open all day today, and Evergreen wasn't open today, but it was open on Tuesday and we only got 3 inches of snow since it was last open Tuesday. That would let me know that there isn't much poweder left to find for this storm, and I might wait to use my PTO another day.
 
 ![Screenshot_20240529-151230](https://github.com/congrieb/rope-drop/assets/6166729/5daa35cc-a453-4d8c-a64d-1624776ca205)
